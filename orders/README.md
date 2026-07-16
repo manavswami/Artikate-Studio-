@@ -2,7 +2,10 @@
 
 This project contains my solution for the Django backend engineering assessment.
 
-NOTE :: please log in with username/password : testuser/testuser
+##  NOTE :: please log in with username/password : testuser/testuser 
+
+
+## Demo link  https://drive.google.com/file/d/1CoKy39uhPJplAK7jLaCesImn2Od28AbC/view?usp=sharing
 
 ## Section 1 — Diagnose a Broken System
 

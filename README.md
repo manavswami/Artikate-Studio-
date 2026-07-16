@@ -5,13 +5,17 @@
 This repository contains the solution for the Django Backend Assessment.
 
 The project is divided into four independent sections.
-
-- Section 1 – Diagnose a Broken System
-- Section 2 – Rate Limited Async Job Queue
-- Section 3 – Multi Tenant Data Isolation
+ 
+- Section 1 – Diagnose a Broken System        demo link https://drive.google.com/file/d/1CoKy39uhPJplAK7jLaCesImn2Od28AbC/view?usp=sharing
+- Section 2 – Rate Limited Async Job Queue    demo link https://drive.google.com/file/d/1P3VQPw-j8rHlVHh-9FF8Bui7TpQtRp99/view?usp=sharing
+- Section 3 – Multi Tenant Data Isolation   
 - Section 4 – Written Architecture Review 
 
 Each section is organized inside its own application or documentation file.
+
+
+##  NOTE :: please log in with username/password : testuser/testuser    url http://127.0.0.1:8000/admin/
+
 
 ---
 
