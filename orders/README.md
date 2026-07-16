@@ -212,3 +212,7 @@ The fix uses Django's `prefetch_related()` and `select_related()` mechanisms to 
 
 
 ![alt text](image-1.png)
+
+
+
+![alt text](image.png)
