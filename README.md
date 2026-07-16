@@ -1,5 +1,29 @@
 # Django Backend Assessment
 
+# Clone or Download the Repository
+
+### Option 1: Clone using Git (Recommended)
+
+```bash
+git clone https://github.com/manavswami/Artikate-Studio-.git
+cd Artikate-Studio-
+```
+
+### Option 2: Download ZIP
+
+1. Open the repository on GitHub.
+2. Click **Code**.
+3. Select **Download ZIP**.
+4. Extract the ZIP file.
+5. Open the extracted folder in your terminal or VS Code.
+
+
+
+
+
+
+
+
 ## Overview
 
 This repository contains the solution for the Django Backend Assessment.
@@ -186,6 +210,9 @@ pip install -r requirements.txt
 ```
 
 ---
+## Start Redis
+
+docker run -d --name redis -p 6379:6379 redis
 
 ## Apply Migrations
 
